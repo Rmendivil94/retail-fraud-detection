@@ -1,4 +1,7 @@
 # Profit-Driven Fraud Detection Engine: A Cost-Sensitive XGBoost Approach
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-green?style=flat)
 
 *[Read in English](#english-version) | [Leer en Español](#versión-en-español)*
 
