@@ -13,7 +13,7 @@
 ### Executive Summary
 This project implements a scalable, production-ready Machine Learning pipeline to detect fraudulent credit card transactions in a retail e-commerce environment. Moving beyond academic metrics, the final model is strictly optimized for **Business Profitability (Cost-Sensitive Learning)**. 
 
-By finding the exact financial equilibrium between intercepting fraud (True Positives) and minimizing customer friction (False Positives), the deployed XGBoost model generated a net savings of **$149,188.50 USD** on a single Out-of-Time test set.
+By finding the exact financial equilibrium between intercepting fraud (True Positives) and minimizing customer friction (False Positives), the deployed XGBoost model generated a net savings of **$146,398.65 USD** on a single Out-of-Time test set.
 
 ### The Business Trade-off
 In the retail and payments industry, optimizing for traditional metrics like F1-Score often destroys business value due to asymmetric costs:
@@ -31,7 +31,7 @@ This engine evaluates predictive probabilities against actual P&L (Profit & Loss
 ### Key Results
 * **ROC-AUC Score:** `0.9027` (Out-of-Time validation).
 * **Optimal Profit Threshold:** `0.5859` 
-* **Net Financial Impact:** **+$149,188.50 USD** saved in a single validation window.
+* **Net Financial Impact:** **+$146,398.65 USD** saved in a single validation window.
 
 ---
 
